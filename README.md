@@ -2,7 +2,7 @@
 
 ## Description
 
-This project implements a simple web server and a web proxy server using Python, as part of the CSCE 3530 course requirements. The web server handles HTTP GET requests and serves files from its local directory, while the web proxy acts as an intermediary between a client and a web server, caching web pages for improved efficiency.
+This project implements a web server and a web proxy server using Python, as part of the CSCE 3530 course requirements. The web server handles HTTP GET requests and serves files from its local directory, while the web proxy acts as an intermediary between a client and a web server, caching web pages for improved efficiency.
 
 ### Project Components
 
