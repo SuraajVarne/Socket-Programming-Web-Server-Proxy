@@ -27,9 +27,7 @@ This project implements a web server and a web proxy server using Python, as par
    ```bash
    python3 web_server.py
 
-Access the server from a web browser using the URL:
-
-http://<server-ip-addr>:<server-port-number>/<file-name>
+Access the server from a web browser using the URL: http://<server-ip-addr>:<server-port-number>/<file-name>
 
 
 
